@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">密码计算器</string>
+    <string name="master_info">主密码：</string>
+    <string name="key_name">关键词：</string>
+    <string name="figure_name">位数：</string>
+    <string name="six_content">6</string>
+    <string name="eight_content">8</string>
+    <string name="twelve_content">12</string>
+    <string name="sixteen_content">16</string>
+    <string name="content_name">类型：</string>
+    <string name="only_digit">012</string>
+    <string name="digit_letter">aA0</string>
+    <string name="digit_letter_spec">aA0#</string>
+    <string name="ret_name">结果：</string>
+    <string name="ret_content">等待中…</string>
+    <string name="btn_compute_name">计算</string>
+    <string name="btn_copy">复制结果</string>
+</resources>
